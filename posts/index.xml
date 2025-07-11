@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
+    <link>https://asherwesterveld.github.io/asherwesterveld.com/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Jul 2025 16:29:43 -0700</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://asherwesterveld.github.io/asherwesterveld.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>https://asherwesterveld.github.io/asherwesterveld.com/posts/my-first-post/</link>
       <pubDate>Wed, 09 Jul 2025 16:29:43 -0700</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>https://asherwesterveld.github.io/asherwesterveld.com/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hello World! This is Asher Westerveld.&lt;/p&gt;</description>
     </item>
   </channel>
